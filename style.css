@@ -1,0 +1,33 @@
+html {
+    background-color: rgb(131, 8, 75);
+    box-sizing: border-box;
+}
+
+.message-container {
+    width: 800px;
+    color: rgb(162, 255, 55);
+    font-size: 18px;
+    font-family: monospace, sans-serif;
+    padding: 8px;
+}
+
+#header {
+    text-align: center;
+    padding: 8px;
+    margin: 8px;
+}
+
+.img-container {
+    display: flex;
+}
+
+div>img {
+    width: 600px;
+    height: auto;
+    margin: 100px 20px 20px 20px;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+}
